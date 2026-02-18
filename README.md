@@ -2,9 +2,9 @@
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mativallej_?style=social)](https://x.com/mativallej_)
 ![License](https://img.shields.io/github/license/mativallej/learn-to-learn?label=license&logo=github&color=f80&logoColor=fff)
-![Forks](https://img.shields.io/github/forks/mativallej/learn-to-learn.svg)](https://github.com/mativallej/learn-to-learn/network)
-![Stars](https://img.shields.io/github/stars/mativallej/learn-to-learn.svg)](https://github.com/mativallej/learn-to-learn/stargazers)
-![Watchers](https://img.shields.io/github/watchers/mativallej/learn-to-learn.svg)](https://github.com/mativallej/learn-to-learn/watchers)
+![Forks](https://img.shields.io/github/forks/mativallej/learn-to-learn.svg)]
+![Stars](https://img.shields.io/github/stars/mativallej/learn-to-learn.svg)]
+![Watchers](https://img.shields.io/github/watchers/mativallej/learn-to-learn.svg)]
 
 > Sistema completo para aprender a aprender: encoding, spaced repetition, flashcards, active reading, study habits y knowledge management con Zettelkasten.
 
