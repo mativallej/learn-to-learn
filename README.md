@@ -10,6 +10,7 @@
 
 ![Flashcards in Obsidian](images/flashcards-in-obsidian.jpg)
 ![Obsidian Graph](images/obsidian-graph.jpeg)
+![Obsidian Graph](images/kindle.jpg)
 
 ## Introduction
 
